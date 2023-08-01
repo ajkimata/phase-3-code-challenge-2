@@ -24,3 +24,18 @@ puts "Creating reviews..."
 # Create Reviews Here
 
 puts "Seeding done!"
+db/seeds.rb
+
+# # Create Users
+# user1 = User.create(name: 'John Doe')
+# user2 = User.create(name: 'Jane Smith')
+
+# # Create Products
+# product1 = Product.create(name: 'Product A', price: 100)
+# product2 = Product.create(name: 'Product B', price: 150)
+
+# # Create Reviews
+# Review.create(user: user1, product: product1, star_rating: 5, comment: 'Great product!')
+# Review.create(user: user1, product: product2, star_rating: 4, comment: 'Nice item!')
+# Review.create(user: user2, product: product1, star_rating: 3, comment: 'Average product')
+# Review.create(user: user2, product: product2, star_rating: 5, comment: 'Excellent choice!')
